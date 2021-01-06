@@ -6,7 +6,7 @@ import axios from 'axios';
 
 const rootUrl = 'https://api.github.com';
 
-const GithubContext=React.createContext();
+export const GithubContext=React.createContext();
 
 export const GithubProvider = ({children}) =>{
     const [githubUser,setGithunUser]=useState(mockUser)
