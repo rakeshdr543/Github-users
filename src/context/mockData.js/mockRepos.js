@@ -6,7 +6,7 @@ export default [
     full_name: "john-smilga/bazinga-example",
     private: false,
     owner: {
-      login: "john-smilga",
+      login: "rakesh",
       id: 42133389,
       node_id: "MDQ6VXNlcjQyMTMzMzg5",
       avatar_url: "https://avatars3.githubusercontent.com/u/42133389?v=4",
